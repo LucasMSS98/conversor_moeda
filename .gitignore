@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/api key
 
 ### Eclipse ###
 .apt_generated
